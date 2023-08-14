@@ -8,3 +8,9 @@ This scrollable list uses the LazyColumn composable feature to showcase this.The
 # Acknowledgments  
 This app was made in reference/practice to the tutorial 'How to create a list using LazyColumn in Jetpack Compose' here: 
 https://medium.com/@mal7othify/lists-using-lazycolumn-in-jetpack-compose-c70c39805fbc
+The images and data displayed were outsourced from random One Piece Characters Images from the internet eg. Pinterest
+
+# Preview - Dark Theme 
+1./home/mudash/Pictures/Screenshots/IMG_20230814_211559.jpg  
+2./home/mudash/Pictures/Screenshots/IMG_20230814_211625.jpg  
+3./home/mudash/Pictures/Screenshots/IMG_20230814_211640.jpg
