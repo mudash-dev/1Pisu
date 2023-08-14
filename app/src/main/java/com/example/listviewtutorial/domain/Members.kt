@@ -32,7 +32,7 @@ val members = listOf(
         R.drawable.sanji,
     ),
     StrawHat(
-        3,
+        4,
         "Name: Nami",
         "Age: 20",
         "Description: Famously known as 'Cat Burglar'. She is the 3rd member " +
@@ -40,11 +40,48 @@ val members = listOf(
         R.drawable.nami,
     ),
     StrawHat(
-        3,
+        5,
         "Name: Usopp",
         "Age: 19",
         "Description: Famously known as 'God Usopp'. Fourth member to join the crew." +
             "He is the son of Yasopp ,who is the member the Red-Haired Pirates.",
         R.drawable.usopp,
+    ),
+    StrawHat(
+        6,
+        "Name: Tony Tony Chopper",
+        "Age: 17",
+        "Description: Known as the 'Cotton Candy Lover' .A reindeer that ate the 'Hito Hito no Mi' Devil fruit that " +
+            "allowed to perceive and communicate like a human being. His dream is to become a " +
+            "doctor capable of curing any disease across the world.",
+        R.drawable.chopper,
+    ),
+    StrawHat(
+        7,
+        "Name: Nico Robin",
+        "Age: 30",
+        "Description: Infamously known as the 'Devil Child' and the " +
+            "'Light of the Revolution.' Ate the Hana Hana no Mi Devil fruit." +
+            "She is able to read and decipher Poneglyphs , a skill forbidden by" +
+            " the World Government.",
+        R.drawable.robin,
+    ),
+    StrawHat(
+        8,
+        "Name: Franky",
+        "Age: 36",
+        "Description: Known as 'Ironman Franky'.7th member to join the crew .Built" +
+            "the current strawhats' indestructible Thousand Sunny Ship. Turned himself into" +
+            " a Cyborg.",
+        R.drawable.franky,
+    ),
+    StrawHat(
+        9,
+        "Name: Jinbe",
+        "Age: 44",
+        "Description: 10th addition to the strawhat crew. He is a whale shark fish man ." +
+            "Uses the Fish-Man Karate Technique.Former member of Sun Pirates and one of the 7 " +
+            "Warlords of the Sea.",
+        R.drawable.fish,
     ),
 )
