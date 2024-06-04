@@ -1,5 +1,9 @@
 # 1Pisu - StrawHats Crew List
-Simple app implementing a scrollable list using Jetpack Compose.
+Simple app implementing a scrollable list with static content using Jetpack Compose.
+
+# Demo
+
+https://github.com/mudash-dev/1Pisu/assets/62433482/7078aad9-50cf-43ac-a1da-089663766567
 
 # Description  
 This is a simple tutorial follow up to assist in learning and understanding how to implement a scrollable list in Compose.
