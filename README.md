@@ -1,9 +1,14 @@
 # 1Pisu - StrawHats Crew List
-Simple app implementing a scrollable list using Jetpack Compose.
+Simple app implementing a scrollable list with static content using Jetpack Compose.
 
 # Description  
 This is a simple tutorial follow up to assist in learning and understanding how to implement a scrollable list in Compose.
 This scrollable list uses the LazyColumn composable feature to showcase this.There is also the use of Card composables to display the respective characters in the list .
+
+# Demo
+
+https://github.com/mudash-dev/1Pisu/assets/62433482/3802d438-6fe9-4e68-9ed8-8ff972830d6b
+
 
 # Acknowledgments  
 This app was made in reference/practice to the tutorial 'How to create a list using LazyColumn in Jetpack Compose' here: 
